@@ -1,4 +1,5 @@
 Summary:	Simple DocBook Viewer
+Summary(pl):	Prosta przegl±darka DocBooka
 Name:		thestructor
 Version:	0.1
 Release:	1
@@ -27,6 +28,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_sysconfdir	/etc/X11/GNOME
 
 %description
+Simple DocBook Viewer.
+
+%description -l pl
+Prosta przegl±darka DocBooka.
 
 %prep
 %setup -q
