@@ -7,6 +7,7 @@ Epoch:		1
 License:	GPL
 Group:		X11/Applications
 Source0:	%{name}-%{version}.tar.gz
+# Source0-md5:	767b86f9f380a993fa97d4cc07e01f78
 BuildRequires:	autoconf
 BuildRequires:	automake >= 1.5-8
 #BuildRequires:	bonobo-devel
