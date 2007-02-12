@@ -1,5 +1,5 @@
 Summary:	Simple DocBook Viewer
-Summary(pl.UTF-8):   Prosta przeglądarka DocBooka
+Summary(pl.UTF-8):	Prosta przeglądarka DocBooka
 Name:		thestructor
 Version:	0.1
 Release:	1
