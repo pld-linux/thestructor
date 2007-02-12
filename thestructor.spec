@@ -1,5 +1,5 @@
 Summary:	Simple DocBook Viewer
-Summary(pl):	Prosta przegl±darka DocBooka
+Summary(pl.UTF-8):   Prosta przeglÄ…darka DocBooka
 Name:		thestructor
 Version:	0.1
 Release:	1
@@ -29,8 +29,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Simple DocBook Viewer.
 
-%description -l pl
-Prosta przegl±darka DocBooka.
+%description -l pl.UTF-8
+Prosta przeglÄ…darka DocBooka.
 
 %prep
 %setup -q
