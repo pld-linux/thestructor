@@ -13,7 +13,7 @@ BuildRequires:	automake >= 1.5-8
 #BuildRequires:	bonobo-devel
 #BuildRequires:	gal-devel >= 0.5
 BuildRequires:	gdk-pixbuf-gnome-devel
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gnome-libs-devel >= 1.2.0
 BuildRequires:	gnome-vfs-devel
 BuildRequires:	gtk+-devel >= 1.2.7
